@@ -1,0 +1,11 @@
+E:\dotnet\repos\vowels-cs\vowels-cs\bin\Debug\vowels-cs.exe.config
+E:\dotnet\repos\vowels-cs\vowels-cs\bin\Debug\vowels-cs.exe
+E:\dotnet\repos\vowels-cs\vowels-cs\bin\Debug\vowels-cs.pdb
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.csproj.AssemblyReference.cache
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.csproj.SuggestedBindingRedirects.cache
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels_cs.Form1.resources
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels_cs.Properties.Resources.resources
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.csproj.GenerateResource.cache
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.csproj.CoreCompileInputs.cache
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.exe
+E:\dotnet\repos\vowels-cs\vowels-cs\obj\Debug\vowels-cs.pdb

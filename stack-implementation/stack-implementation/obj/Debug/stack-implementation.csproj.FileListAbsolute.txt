@@ -1,0 +1,11 @@
+E:\dotnet\repos\stack-implementation\stack-implementation\bin\Debug\stack-implementation.exe.config
+E:\dotnet\repos\stack-implementation\stack-implementation\bin\Debug\stack-implementation.exe
+E:\dotnet\repos\stack-implementation\stack-implementation\bin\Debug\stack-implementation.pdb
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.csproj.AssemblyReference.cache
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.csproj.SuggestedBindingRedirects.cache
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack_implementation.Form1.resources
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack_implementation.Properties.Resources.resources
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.csproj.GenerateResource.cache
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.csproj.CoreCompileInputs.cache
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.exe
+E:\dotnet\repos\stack-implementation\stack-implementation\obj\Debug\stack-implementation.pdb

@@ -1,0 +1,17 @@
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\bin\Debug\net6.0-windows\Student Marks List.exe
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\bin\Debug\net6.0-windows\Student Marks List.deps.json
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\bin\Debug\net6.0-windows\Student Marks List.runtimeconfig.json
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\bin\Debug\net6.0-windows\Student Marks List.dll
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\bin\Debug\net6.0-windows\Student Marks List.pdb
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.vbproj.AssemblyReference.cache
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student_Marks_List.Form1.resources
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.vbproj.GenerateResource.cache
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.AssemblyInfoInputs.cache
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.AssemblyInfo.vb
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.vbproj.CoreCompileInputs.cache
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.dll
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\refint\Student Marks List.dll
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.pdb
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\Student Marks List.genruntimeconfig.cache
+C:\Users\sadik\source\repos\Student Marks List\Student Marks List\obj\Debug\net6.0-windows\ref\Student Marks List.dll

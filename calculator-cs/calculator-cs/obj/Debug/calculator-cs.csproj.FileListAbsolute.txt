@@ -1,0 +1,11 @@
+E:\dotnet\repos\calculator-cs\calculator-cs\bin\Debug\calculator-cs.exe.config
+E:\dotnet\repos\calculator-cs\calculator-cs\bin\Debug\calculator-cs.exe
+E:\dotnet\repos\calculator-cs\calculator-cs\bin\Debug\calculator-cs.pdb
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.csproj.AssemblyReference.cache
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.csproj.SuggestedBindingRedirects.cache
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator_cs.Form1.resources
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator_cs.Properties.Resources.resources
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.csproj.GenerateResource.cache
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.csproj.CoreCompileInputs.cache
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.exe
+E:\dotnet\repos\calculator-cs\calculator-cs\obj\Debug\calculator-cs.pdb

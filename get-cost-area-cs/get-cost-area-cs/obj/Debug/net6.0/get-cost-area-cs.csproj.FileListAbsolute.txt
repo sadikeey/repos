@@ -1,0 +1,15 @@
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.csproj.AssemblyReference.cache
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.AssemblyInfoInputs.cache
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.AssemblyInfo.cs
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.csproj.CoreCompileInputs.cache
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\bin\Debug\net6.0\get-cost-area-cs.exe
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\bin\Debug\net6.0\get-cost-area-cs.deps.json
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\bin\Debug\net6.0\get-cost-area-cs.runtimeconfig.json
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\bin\Debug\net6.0\get-cost-area-cs.dll
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\bin\Debug\net6.0\get-cost-area-cs.pdb
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.dll
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\refint\get-cost-area-cs.dll
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.pdb
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\get-cost-area-cs.genruntimeconfig.cache
+E:\dotnet\repos\get-cost-area-cs\get-cost-area-cs\obj\Debug\net6.0\ref\get-cost-area-cs.dll

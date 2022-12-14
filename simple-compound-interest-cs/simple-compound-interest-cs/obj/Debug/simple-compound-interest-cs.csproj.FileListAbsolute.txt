@@ -1,0 +1,11 @@
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\bin\Debug\simple-compound-interest-cs.exe.config
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\bin\Debug\simple-compound-interest-cs.exe
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\bin\Debug\simple-compound-interest-cs.pdb
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.csproj.AssemblyReference.cache
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.csproj.SuggestedBindingRedirects.cache
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple_compound_interest_cs.Form1.resources
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple_compound_interest_cs.Properties.Resources.resources
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.csproj.GenerateResource.cache
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.csproj.CoreCompileInputs.cache
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.exe
+E:\dotnet\repos\simple-compound-interest-cs\simple-compound-interest-cs\obj\Debug\simple-compound-interest-cs.pdb
